@@ -10,3 +10,10 @@ Even if you are working on a personal project, version control helps you stay or
 - Maintains the history of your codebase, who made the changes, what changes were made, why the changes were made, etc
 - Helps you stay organized
 - Gives you the ability to rollback the changes as needed
+
+
+## Git vs. TFVC
+
+Azure Repos supports two types of Version Control:
+- Git
+- TFVC ( Team Foundation Version Control)
