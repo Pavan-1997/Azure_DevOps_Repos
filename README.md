@@ -24,3 +24,7 @@ Git is the most popular distributed version control system, which allows develop
 
 To interact with Git, you can make use of Git clients such as Git for Windows, VSCode, etc
 Git provides a version control system, but you need a hosting service to host your codebase(repositories). You can use git hosting services such as GitHub, Azure Repos, Bitbucket, Gitlab, etc.
+
+
+### TFVC
+Another type of version control system is TFVC, a centralized version control. In TFVC, only a single codebase version is downloaded locally, historical data is maintained on the central server. You can host TFVC on hosting services such as Perforce, SVC, Azure Repos, etc.
